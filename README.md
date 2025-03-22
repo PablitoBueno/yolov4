@@ -67,9 +67,3 @@ Receives an image via a POST request and returns detection information along wit
 ## GitHub Short Description
 "FastAPI-based API for YOLOv4 object detection in images with bounding box annotations and base64 image output."
 
-## License
-This project is distributed under the MIT license.
-
----
-
-Built with FastAPI and YOLOv4 🚀
