@@ -63,7 +63,3 @@ Receives an image via a POST request and returns detection information along wit
 |-- coco.names            # File containing class names.
 |-- README_YOLOv4.md      # Detailed documentation.
 ```
-
-## GitHub Short Description
-"FastAPI-based API for YOLOv4 object detection in images with bounding box annotations and base64 image output."
-
